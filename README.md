@@ -16,3 +16,4 @@
 * 13/08/2021 : Read and understand the following paper about finetuning https://arxiv.org/abs/1801.06146 + understand how to finetune models using tensorflow.
 * 14/08/2021 : Understand Mixed precision train and tensorflow datasets
 * 15/08/2021 : Introduction to NLP with tensorflow
+* 16/08/2021 : MIT Introduction to RNN : https://www.youtube.com/watch?v=SEnXr6v2ifU + https://github.com/mrdbourke/tensorflow-deep-learning/blob/main/08_introduction_to_nlp_in_tensorflow.ipynb
