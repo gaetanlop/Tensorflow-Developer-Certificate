@@ -22,4 +22,4 @@
 
 ## Interesting Resources
 
-** Learn NLP with Spacy ** : https://course.spacy.io/en/
+**Learn NLP with Spacy** : https://course.spacy.io/en/
