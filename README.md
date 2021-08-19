@@ -18,8 +18,11 @@
 * 15/08/2021 : Introduction to NLP with tensorflow
 * 16/08/2021 : MIT Introduction to RNN : https://www.youtube.com/watch?v=SEnXr6v2ifU + https://github.com/mrdbourke/tensorflow-deep-learning/blob/main/08_introduction_to_nlp_in_tensorflow.ipynb
 * 17/08/2021 : Finish NLP
+* 18/08/2021 : Exercises for NLP
+* 19/08/2021 : Started Time series
 
 
 ## Interesting Resources
 
 **Learn NLP with Spacy** : https://course.spacy.io/en/
+**Time Series Best book** : https://otexts.com/fpp3/
