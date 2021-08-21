@@ -22,6 +22,9 @@
 * 19/08/2021 : Started Time series
 * 21/08/2021: Understanding the basics of times series data
 
+Codejam topcoder ??
+
+
 ## Interesting Resources
 
 **Learn NLP with Spacy** : https://course.spacy.io/en/
