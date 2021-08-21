@@ -20,7 +20,7 @@
 * 17/08/2021 : Finish NLP
 * 18/08/2021 : Exercises for NLP
 * 19/08/2021 : Started Time series
-
+* 21/08/2021: Understanding the basics of times series data
 
 ## Interesting Resources
 
