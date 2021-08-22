@@ -21,6 +21,7 @@
 * 18/08/2021 : Exercises for NLP
 * 19/08/2021 : Started Time series
 * 21/08/2021: Understanding the basics of times series data
+* 22/08/2021: Finished time series data
 
 Codejam topcoder ??
 
