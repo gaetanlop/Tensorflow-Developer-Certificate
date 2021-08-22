@@ -22,6 +22,7 @@
 * 19/08/2021 : Started Time series
 * 21/08/2021: Understanding the basics of times series data
 * 22/08/2021: Finished time series data
+* 23/08/2021: Started Coursera tensroflow specialization. Need to finish it today or tomorrow maximum
 
 Codejam topcoder ??
 
