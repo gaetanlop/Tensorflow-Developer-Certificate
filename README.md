@@ -31,3 +31,4 @@ Codejam topcoder ??
 
 **Learn NLP with Spacy** : https://course.spacy.io/en/
 **Time Series Best book** : https://otexts.com/fpp3/
+**Course about RNN**: https://www.coursera.org/lecture/nlp-sequence-models/deep-rnns-ehs0S
