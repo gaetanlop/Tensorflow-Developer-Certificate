@@ -24,6 +24,7 @@
 * 22/08/2021: Finished time series data
 * 23/08/2021: Started Coursera tensroflow specialization. Need to finish it today or tomorrow maximum
 * 24/08/2021: Will do it tomorrow use https://dev.mrdbourke.com/tensorflow-deep-learning/
+* 25/08/2021: Succesfully past the exam
 
 Codejam topcoder ??
 
