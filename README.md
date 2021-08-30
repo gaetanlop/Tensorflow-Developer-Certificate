@@ -26,7 +26,7 @@
 * 24/08/2021: Will do it tomorrow use https://dev.mrdbourke.com/tensorflow-deep-learning/
 * 25/08/2021: Succesfully past the exam
 
-Codejam topcoder ??
+Codejam topcoder hackerrank
 
 
 ## Interesting Resources
