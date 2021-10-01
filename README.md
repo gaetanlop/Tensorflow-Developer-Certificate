@@ -1,5 +1,9 @@
 # Tensorflow-Developer-Certificate
 
+## About
+
+I just used this repository for my revisions for the tensorlfow developer certificate. This repo is useless.
+
 ## Resources
 * https://www.tensorflow.org/certificate official website
 * https://dev.mrdbourke.com/tensorflow-deep-learning/ Daniel Bourke course of tensorflow
